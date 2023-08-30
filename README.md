@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# keycloak-tokencode-service
-=======
+
 # Keycloak Tokencode Service
 
 ### Overview
