@@ -24,4 +24,3 @@ Then run from the root dir of the project:
 ```
 mvn install
 ```
->>>>>>> d236145 (chore: add readme)
