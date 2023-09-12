@@ -1,4 +1,4 @@
-package net.interus.keycloak.tokencode.util;
+package net.interus.keycloak.tokencode.integrated;
 
 import net.interus.keycloak.tokencode.integrated.firebase.DynamicLinksApi;
 import net.interus.keycloak.tokencode.integrated.firebase.DynamicLinksRestApi;

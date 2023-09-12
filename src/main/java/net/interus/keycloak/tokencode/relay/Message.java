@@ -1,8 +1,7 @@
 package net.interus.keycloak.tokencode.relay;
 
 import lombok.*;
-import net.interus.keycloak.tokencode.util.URLShorter;
-import org.keycloak.util.JsonSerialization;
+import net.interus.keycloak.tokencode.integrated.URLShorter;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
